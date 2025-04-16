@@ -16,9 +16,9 @@
     
     {
     
-             "name": "SERVER",
+             "name": "SERVER-TH1",
     
-             "url": "http"
+             "url": "http://103.245.167.121:7777/server/online_app.json"
     
           }
     
