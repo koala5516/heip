@@ -24,7 +24,7 @@
 
   {
 
-         "name": "TH-FREE-02",
+         "name": "Server-The2-Free",
 
          "url": "http://103.245.167.121:7777/server/online_app.json"
 
@@ -32,7 +32,7 @@
 
   {
 
-         "name": "TH-FREE-03",
+         "name": "Server-The3-Free",
 
          "url": "http://103.40.119.38:7777/server/online_app.json"
 
@@ -40,7 +40,7 @@
 
   {
 
-         "name": "TH-FREE-04",
+         "name": "Server-The4-Free",
 
          "url": "http://103.245.167.121:7777/server/online_app.json"
 
