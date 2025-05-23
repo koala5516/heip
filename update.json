@@ -18,7 +18,7 @@
 
          "name": "Server-The1-Free",
 
-         "url": "http://103.40.119.38:7777/server/online_app.json"
+         "url": "http://103.245.167.122:9999/server/online_app.json"
 
       },
 
@@ -26,7 +26,7 @@
 
          "name": "Server-The2-Free",
 
-         "url": "http://103.40.119.42:7777/server/online_app.json"
+         "url": "http://103.245.167.122:9999/server/online_app.json"
 
       },
 
@@ -34,7 +34,7 @@
 
          "name": "Server-The3-Free",
 
-         "url": "http://103.40.119.38:7777/server/online_app.json"
+         "url": "http://103.245.167.122:9999/server/online_app.json"
 
       },
 
@@ -42,7 +42,7 @@
 
          "name": "Server-The4-Free",
 
-         "url": "http://103.245.167.121:7777/server/online_app.json"
+         "url": "http://103.245.167.122:9999/server/online_app.json"
 
       }
     
